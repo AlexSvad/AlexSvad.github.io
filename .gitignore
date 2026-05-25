@@ -3,3 +3,7 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
